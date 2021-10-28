@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e9d8fcebabf7264cae46b04475a4d6d, type: 3}
+  m_Name: Schedule
+  m_EditorClassIdentifier: 
+  scheduleObject:
+    SceneList:
+    - nameScene: Japan
+      dateTime: 132657531642525229
+      actList:
+      - name: Start
+        offset: 0
+      - name: Allinstead
+        offset: 9
+      - name: Sakura
+        offset: 66
+      - name: Smoke
+        offset: 219
+      - name: Sun
+        offset: 315
+      - name: End
+        offset: 421
+    - nameScene: Lebeda
+      dateTime: 132657531642525229
+      actList:
+      - name: Sound
+        offset: 0
+      - name: Bloger1
+        offset: 10
+      - name: Grass1
+        offset: 54
+      - name: Bloger2
+        offset: 135
+      - name: Grass2
+        offset: 187
+      - name: Bloger3
+        offset: 269
+      - name: Grass3
+        offset: 316
+      - name: Bloger4
+        offset: 408
+      - name: Final
+        offset: 419
+    - nameScene: Ersh
+      dateTime: 132657531642525229
+      actList:
+      - name: StartSound
+        offset: 0
+      - name: ContentOn
+        offset: 8
+      - name: Snow appearance
+        offset: 36
+      - name: snow stop
+        offset: 239
+      - name: snowstunrotate
+        offset: 303
+      - name: onlysnow
+        offset: 395
+    - nameScene: Chastushki
+      dateTime: 132657531642525229
+      actList:
+      - name: Start
+        offset: 0
+      - name: Kafel+Bath
+        offset: 8
+      - name: Muhi
+        offset: 35
+      - name: rain+girl-muhi
+        offset: 95
+      - name: 'rain -girl '
+        offset: 215
+      - name: rainmuhi+girl
+        offset: 300
+      - name: girsitminus
+        offset: 375
+      - name: muhi-+rain
+        offset: 390
+    - nameScene: Alphabet
+      dateTime: 132657531642535229
+      actList:
+      - name: sound
+        offset: 0
+      - name: house and its rotation
+        offset: 8
+      - name: first picture
+        offset: 89
+      - name: second picture
+        offset: 157
+      - name: third picture
+        offset: 288
+      - name: particals
+        offset: 300
+      - name: finish
+        offset: 420
+    - nameScene: Varezhki
+      dateTime: 132657531642535229
+      actList:
+      - name: Start
+        offset: 0
+      - name: malchik
+        offset: 8
+      - name: toy1
+        offset: 54
+      - name: toy2 +samolet
+        offset: 141
+      - name: toy3
+        offset: 184
+      - name: toy4
+        offset: 275
+      - name: toy5
+        offset: 305
+      - name: sun
+        offset: 322
+      - name: End
+        offset: 420
+    - nameScene: Pikhtovoe maslo
+      dateTime: 132657531642535229
+      actList:
+      - name: sound
+        offset: 0
+      - name: derevo1
+        offset: 9
+      - name: hronika1
+        offset: 96
+      - name: derevo2
+        offset: 109
+      - name: hronika2
+        offset: 168
+      - name: derevo3
+        offset: 196
+      - name: hronika3
+        offset: 288
+      - name: derevo4
+        offset: 300
+      - name: hronika4
+        offset: 343
+      - name: derevo5
+        offset: 360
+      - name: hronika5
+        offset: 391
+      - name: End
+        offset: 413
+    sceneDelay: 0

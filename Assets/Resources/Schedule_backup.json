@@ -1,0 +1,35 @@
+{
+  "SceneList": [
+    {
+      "nameScene": "Gamlet",
+      "date": "00.00.00",
+      "time": "00:00",
+      "actList": [
+        {
+          "name": "act1",
+          "offset": 1
+        },
+        {
+          "name": "act2",
+          "offset": 2
+        }
+      ]
+    },
+    {
+      "nameScene": "Scene2",
+      "date": "00.00.00",
+      "time": "00:00",
+      "actList": [
+        {
+          "name": "act1",
+          "offset": 0
+        },
+        {
+          "name": "act2",
+          "offset": 0
+        }
+      ]
+    }
+  ],
+  "sceneDelay": 5
+}

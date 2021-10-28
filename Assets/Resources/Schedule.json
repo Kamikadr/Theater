@@ -1,0 +1,89 @@
+{
+		"SceneList": [
+				{
+						"nameScene": "Gamlet",
+						"date": "00.00.00",
+						"time": "00:00",
+						"actList": [
+								{
+										"name": "act1",
+										"offset": 1
+								},
+								{
+										"name": "act2",
+										"offset": 123
+								}
+						]
+				},
+				{
+						"nameScene": "Scene2",
+						"date": "00.00.00",
+						"time": "00:00",
+						"actList": [
+								{
+										"name": "act1",
+										"offset": 15
+								},
+								{
+										"name": "act2",
+										"offset": 30
+								}
+						]
+				},
+				{
+						"nameScene": "Scene3",
+						"date": "00.00.00",
+						"time": "00:00",
+						"actList": [
+								{
+										"name": "act1",
+										"offset": 10
+								},
+								{
+										"name": "act2",
+										"offset": 40
+								}
+						]
+				},
+				{
+						"nameScene": "Scene4",
+						"date": "00.00.00",
+						"time": "00:00",
+						"actList": [
+								{
+										"name": "act1",
+										"offset": 10
+								},
+								{
+										"name": "act2",
+										"offset": 40
+								},
+								{
+										"name": "act3",
+										"offset": 40
+								}
+						]
+				},
+				{
+						"nameScene": "Scene5",
+						"date": "00.00.00",
+						"time": "00:00",
+						"actList": [
+								{
+										"name": "act1",
+										"offset": 10
+								},
+								{
+										"name": "act2",
+										"offset": 40
+								},
+								{
+										"name": "act3",
+										"offset": 40
+								}
+						]
+				}
+
+		],
+		"sceneDelay": 5
+}
